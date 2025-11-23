@@ -1,5 +1,6 @@
 # Sistema Solar
 - Jogo básico para colocar os planetas do sistema solar na ordem
+<img width="1215" height="681" alt="image" src="https://github.com/user-attachments/assets/11641db9-2cd7-45a4-aa59-28e62ce924f3" />
 
 
 # Guia para programação
