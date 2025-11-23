@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{C8478C79-D236-6FDA-04CD-8C6E6AE0E9D1}</ProjectGuid>
+    <ProjectGuid>{F116C403-5420-CB64-5AA0-09F9D5722BBB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -70,26 +70,26 @@
     <Compile Include="Assets\Script\Planeta.cs" />
     <Compile Include="Assets\Script\Sensor.cs" />
     <Compile Include="Assets\Script\Sombra.cs" />
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-SistemaSolar/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Purchasing">
-      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-Sistema-Solar/Assets/Project GODOT/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-SistemaSolar/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-Sistema-Solar/Assets/Project GODOT/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-SistemaSolar/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-Sistema-Solar/Assets/Project GODOT/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-Sistema-Solar/Assets/Project GODOT/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-SistemaSolar/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-Sistema-Solar/Assets/Project GODOT/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-SistemaSolar/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-Sistema-Solar/Assets/Project GODOT/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-SistemaSolar/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-Sistema-Solar/Assets/Project GODOT/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-SistemaSolar/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.36f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -293,7 +293,7 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.36f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-Sistema-Solar/Assets/Project GODOT/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Felipe/Documents/GitHub/2019-SistemaSolar/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.36f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
