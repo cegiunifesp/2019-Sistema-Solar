@@ -1,10 +1,11 @@
 # Sistema Solar
-- Jogo básico para colocar os planetas do sistema solar na ordem
+- Jogo básico para ordenar os planetas do sistema solar corretamente e visualizar sua órbita
+- Desenvolvido por: [@renanruan](https://github.com/renanruan) em 2018
 <img width="1215" height="681" alt="image" src="https://github.com/user-attachments/assets/11641db9-2cd7-45a4-aa59-28e62ce924f3" />
 
 
 # Guia para programação
-Abaixo estão algumas indicações de como deve ser escrito o código com a finalidade de garantir clareza, eficiência e organização. Ajude na legibilidade do código que muito provávelmente terá de ser alterado no futuro.
+Abaixo estão algumas indicações de como deve ser escrito o código com a finalidade de garantir clareza, eficiência e organização. Ajude na legibilidade do código que muito provavelmente terá de ser alterado no futuro.
 
 VERSÃO DO UNITY: 2019.4.41f2
 
